@@ -10,6 +10,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 **Tasks Assigned:**
 1. Task No. 1
 2. Task No. 2
+
 **Solution:**  
 I solved the assigned tasks by implementing a solution that met the project requirements. (Please note that I cannot provide specific details about the solution as it is proprietary information of the client.)  
 **Link to the Project:**  
