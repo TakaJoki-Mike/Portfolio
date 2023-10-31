@@ -6,22 +6,15 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 ### Please find below the details of a project I worked on:
 
-#### Project Name: Skyeng Web Application Test for Teachers
-
-Tasks Assigned:
+**Project Name:** Skyeng Web Application Test for Teachers  
+**Tasks Assigned:**
 1. Task No. 1
-2. Task No. 2
-
-#### Solution:
-
-I solved the assigned tasks by implementing a solution that met the project requirements. (Please note that I cannot provide specific details about the solution as it is proprietary information of the client.)
-
-#### Link to the Project:
-
-Attached is the link to the project, where you can find demonstrative materials including screenshots, signs, requests, and code. The employer can quickly see the results of the work by following the link.
-
-#### Conclusions:
-
+2. Task No. 2  
+**Solution:**  
+I solved the assigned tasks by implementing a solution that met the project requirements. (Please note that I cannot provide specific details about the solution as it is proprietary information of the client.)  
+**Link to the Project:**  
+Attached is the link to the project, where you can find demonstrative materials including screenshots, signs, requests, and code. The employer can quickly see the results of the work by following the link.  
+**Conclusions:**  
 As a result of the project, the following outcomes were achieved:
 1. Result No. 1
 2. Result No. 2
