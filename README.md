@@ -10,3 +10,4 @@ I'm a junior QA engineer who has experience with APIs and SQL. And I often read 
 #### Below is a list of the technologies and programs that I have worked with:
 `Jira`, `qase.io`, `Postman`, `Swagger`, `sitechco`, `Confluence`,
 `SoapUI`, `VS code`, `Git`, `Edge DevTools`, `pgAdmin`, `Mockoon`.
+#### Contact Information
