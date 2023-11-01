@@ -22,6 +22,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 [<img src="/Files/Projectscreens/miro.jpg" width="700" height="400">](https://miro.com/welcomeonboard/aU5KdmhNQUxwNEU2Sm1pb0dWZUlndmZyMXNFUDVqREtWeFBxYVVib1JWSFk2dGFNOTJRZTVvR09tOVluclk3VHwzNDU4NzY0NTQ3ODg4NDM5NTU5fDI=?share_link_id=933700350821)
 
+- A set of [checklists](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/sitechco.jpg) and [test cases](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Qase.io) were put together.
 - [bug](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/1_1bug.jpg)
 
 **Conclusions:**  
