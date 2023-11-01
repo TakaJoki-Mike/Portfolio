@@ -6,9 +6,9 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 ### Please find below the details of a project I worked on:
 
-**Project 1** 
-**Name:** Skyeng Web Application Test for Teachers  
-*User-story - The teacher can schedule personal events to serve as reminders for their own meetings.*
+**Project 1**  
+Name: *Skyeng Web Application Test for Teachers*  
+User-story: *The teacher can schedule personal events to serve as reminders for their own meetings.*
 
 **Tasks Assigned:**
 
@@ -18,7 +18,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 **Project solution:**  
 
-- After conducting an analysis of the scheduling system, a decomposition was created.
+- After conducting an analysis of the scheduling system, a [decomposition](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/miro.jpg) was created.
 
 [<img src="/Files/Projectscreens/miro.jpg" width="700" height="400">](https://miro.com/welcomeonboard/aU5KdmhNQUxwNEU2Sm1pb0dWZUlndmZyMXNFUDVqREtWeFBxYVVib1JWSFk2dGFNOTJRZTVvR09tOVluclk3VHwzNDU4NzY0NTQ3ODg4NDM5NTU5fDI=?share_link_id=933700350821)
 
