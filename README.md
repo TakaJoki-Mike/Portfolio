@@ -7,6 +7,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 ### Please find below the details of a project I worked on:
 
 **Project Name:** Skyeng Web Application Test for Teachers  
+*User-story - The teacher can schedule personal events to serve as reminders for their own meetings.*
 
 **Tasks Assigned:**
 
@@ -15,8 +16,6 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 3. Select the appropriate testing type, justify selection, create & manage test docs. Enter and prioritize test cases in TMS, detect bugs, and generate TMS reports.
 
 **Project solution:**  
-
-- User-story - The teacher can schedule personal events to serve as reminders for their own meetings.
 
 - After conducting an analysis of the scheduling system, a decomposition was created.
 
