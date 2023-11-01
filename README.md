@@ -29,7 +29,7 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 **Conclusions:**  
 As a result of the project, the following outcomes were achieved:
 A [bug related to highlight text](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs/Conclusion) has been discovered, which causes the form to close with all the entered data. This issue could result in a bad impression of the application for users. It is important to fix this bug before releasing the application to ensure a smooth user experience.
-
+***
 **Project 2**  
 Name: *Skyeng Web Application Test for Teachers*  
 User-story: *The teacher can schedule personal events to serve as reminders for their own meetings.*
@@ -48,9 +48,7 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 - The document was formatted using the [Confluence](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/work_in_confluence.jpg) application.
 
 **Conclusions:**  
-As a result of the project, the following outcomes were achieved:
-
-All events were created, edited, and deleted. I wrote 3 API test cases, which cannot be tested through the interface. It wasn't possible to substitute an invalid date or time, but I was able to modify the colour of a personal event to blue, which isn't an available option when creating an event through the interface. The response status code was always 200; however, in case of an empty name or invalid time, the response body contained an error description.
+As a result of the project, the following outcomes were achieved: All events were created, edited, and deleted. I wrote 3 API test cases, which cannot be tested through the interface. It wasn't possible to substitute an invalid date or time, but I was able to modify the colour of a personal event to blue, which isn't an available option when creating an event through the interface. The response status code was always 200; however, in case of an empty name or invalid time, the response body contained an error description.
 
 ### Links:
 
