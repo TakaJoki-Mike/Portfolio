@@ -13,8 +13,8 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 **Tasks Assigned:**
 
 1. Test "Personal events"
-2. Demonstrate the skills acquired in the course by applying them in practical situations. 
-3. Select the appropriate testing type, justify selection, create & manage test docs. Enter and prioritize test cases in TMS, detect bugs, and generate TMS reports.
+2. Select the appropriate testing type, justify selection, create & manage test docs. Enter and prioritize test cases in TMS, detect bugs, and generate TMS reports.
+3. Demonstrate the skills acquired in the course by applying them in practical situations. 
 
 **Project solution:**  
 
@@ -30,7 +30,26 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 As a result of the project, the following outcomes were achieved:
 A [bug related to highlight text](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs/Conclusion) has been discovered, which causes the form to close with all the entered data. This issue could result in a bad impression of the application for users. It is important to fix this bug before releasing the application to ensure a smooth user experience.
 
+**Project 2**  
+Name: *Skyeng Web Application Test for Teachers*  
+User-story: *The teacher can schedule personal events to serve as reminders for their own meetings.*
 
+**Tasks Assigned:**
+
+1. Test "Personal events" 
+2. Testing an application using the API
+3. Demonstrate the skills acquired in the course by applying them in practical situations. 
+
+**Project solution:**  
+
+- Postman was used to perform API testing.  Portfolio/Files/API/postman.png
+
+  [<img src="/Files/API/postman.png" width="700" height="250">](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/API/API%20coure%20work.postman_collection%20(1).json)
+- The document was formatted using the [Confluence](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/work_in_confluence.jpg) application.
+
+**Conclusions:**  
+As a result of the project, the following outcomes were achieved:
+A [bug related to highlight text](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs/Conclusion) has been discovered, which causes the form to close with all the entered data. This issue could result in a bad impression of the application for users. It is important to fix this bug before releasing the application to ensure a smooth user experience.
 ### Links:
 
 * [Portfolio.ru](https://wheat-cruiser-95c.notion.site/77160b1d4a494668b28ef9dc12bf9d93?pvs=4)
