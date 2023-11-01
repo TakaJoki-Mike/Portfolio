@@ -15,8 +15,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 **Project solution:**  
 User-story - The teacher can schedule personal events to serve as reminders for their own meetings.
-After conducting an analysis of the scheduling system, a decomposition was created.[![Miro decomposition](/Files/Project screens/miro.png)](
-https://miro.com/welcomeonboard/aU5KdmhNQUxwNEU2Sm1pb0dWZUlndmZyMXNFUDVqREtWeFBxYVVib1JWSFk2dGFNOTJRZTVvR09tOVluclk3VHwzNDU4NzY0NTQ3ODg4NDM5NTU5fDI=?share_link_id=933700350821)
+After conducting an analysis of the scheduling system, a decomposition was created.[![Miro decomposition](Portfolio/Files/Projectscreens/miro.png)](https://miro.com/welcomeonboard/aU5KdmhNQUxwNEU2Sm1pb0dWZUlndmZyMXNFUDVqREtWeFBxYVVib1JWSFk2dGFNOTJRZTVvR09tOVluclk3VHwzNDU4NzY0NTQ3ODg4NDM5NTU5fDI=?share_link_id=933700350821)
 
 **Conclusions:**  
 As a result of the project, the following outcomes were achieved:
