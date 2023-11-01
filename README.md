@@ -42,7 +42,7 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 
 **Project solution:**  
 
-- Postman was used to perform API testing.  Portfolio/Files/API/postman.png
+- [Postman](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/API/API%20coure%20work.postman_collection%20(1).json) was used to perform API testing.  Portfolio/Files/API/postman.png
 
   [<img src="/Files/API/postman.png" width="700" height="250">](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/API/API%20coure%20work.postman_collection%20(1).json)
 - The document was formatted using the [Confluence](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/work_in_confluence.jpg) application.
