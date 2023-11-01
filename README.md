@@ -24,6 +24,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 - A set of [checklists](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/sitechco.jpg) and [test cases](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Qase.io) were put together.
 - Discovered [errors](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs).
 - The checks have been successfully carried out and their results have been recorded. The document was formatted using the [Confluence](https://github.com/TakaJoki-Mike/Portfolio/blob/main/Files/Projectscreens/work_in_confluence.jpg) application.
+- 
 
 **Conclusions:**  
 As a result of the project, the following outcomes were achieved:
