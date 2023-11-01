@@ -50,10 +50,6 @@ User-story: *The teacher can schedule personal events to serve as reminders for 
 **Conclusions:**  
 As a result of the project, the following outcomes were achieved: All events were created, edited, and deleted. I wrote 3 API test cases, which cannot be tested through the interface. It wasn't possible to substitute an invalid date or time, but I was able to modify the colour of a personal event to blue, which isn't an available option when creating an event through the interface. The response status code was always 200; however, in case of an empty name or invalid time, the response body contained an error description.
 
-### Links:
-
-* [Portfolio.ru](https://wheat-cruiser-95c.notion.site/77160b1d4a494668b28ef9dc12bf9d93?pvs=4)
-
 ### Below is a list of the technologies and programs that I have worked with:
 
 `Jira`, `qase.io`, `Postman`, `Swagger`, `sitechco`, `Confluence`,
