@@ -8,8 +8,8 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 **Project Name:** Skyeng Web Application Test for Teachers  
 **Tasks Assigned:**
-1. Task No. 1
-2. Task No. 2
+1. Demonstrate the skills acquired in the course by applying them in practical situations. 
+2. Select the appropriate testing type, justify selection, create & manage test docs. Enter and prioritize test cases in TMS, detect bugs, and generate TMS reports.
 
 **Solution:**  
 I solved the assigned tasks by implementing a solution that met the project requirements. (Please note that I cannot provide specific details about the solution as it is proprietary information of the client.)  
