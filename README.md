@@ -6,7 +6,8 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 ### Please find below the details of a project I worked on:
 
-**Project Name:** Skyeng Web Application Test for Teachers  
+**Project 1** 
+**Name:** Skyeng Web Application Test for Teachers  
 *User-story - The teacher can schedule personal events to serve as reminders for their own meetings.*
 
 **Tasks Assigned:**
@@ -27,7 +28,7 @@ My name is Michael, but you can call me Mike. I am a junior QA engineer with exp
 
 **Conclusions:**  
 As a result of the project, the following outcomes were achieved:
-1. A [bug related to highlight text](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs/Conclusion) has been discovered, which causes the form to close with all the entered data. This issue could result in a bad impression of the application for users. It is important to fix this bug before releasing the application to ensure a smooth user experience.
+A [bug related to highlight text](https://github.com/TakaJoki-Mike/Portfolio/tree/main/Files/Projectscreens/Bugs/Conclusion) has been discovered, which causes the form to close with all the entered data. This issue could result in a bad impression of the application for users. It is important to fix this bug before releasing the application to ensure a smooth user experience.
 
 
 ### Links:
